@@ -4,7 +4,7 @@
 
 ---
 
-## ** Features**  
+##  Features
 
 ✅ **Multi-Category Conversions:** Convert between **Length, Temperature, Weight, Time, Speed, and Area**.  
 ✅ **User-Friendly Interface:** Select units effortlessly with dropdown menus and live input fields.  
@@ -13,7 +13,7 @@
 
 ---
 
-## ** How to Use**  
+## How to Use  
 
 1️⃣ **Choose a Conversion Category:** Select from **Length, Temperature, Weight, Time, Speed, or Area** in the sidebar.  
 2️⃣ **Enter Your Value:** Type the number you want to convert.  
@@ -23,36 +23,36 @@
 
 ---
 
-## ** Setup & Installation**  
+##  Setup & Installation
 
 ### **Prerequisites**  
-- Python **3.8 or higher**  
+- Python **3.8 or higher** 
 - Streamlit  
 - Pandas (for future enhancements)  
 
-### **Steps to Run Locally**  
+### Steps to Run Locally
 
-1️⃣ **Clone the Repository:**  
+1️⃣ Clone the Repository:
 ```sh
 git clone https://github.com/YOUR-USERNAME/unit-converter.git
 cd unit-converter
 ```
 
-2️⃣ **Install Required Libraries:**  
-```sh
+2️⃣ Install Required Libraries:  
+
 pip install streamlit pandas
-```
 
-3️⃣ **Run the App:**  
-```sh
+
+3️⃣ Run the App: 
+
 streamlit run app.py
-```
 
- **Your Unit Converter is now live on `localhost:8501`!**  
+
+ Your Unit Converter is now live on `localhost:8501`!
 
 ---
 
-## ** Deploy to Streamlit Cloud**  
+## Deploy to Streamlit Cloud
 
 Want to make your app public? Follow these steps:  
 
