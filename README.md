@@ -1,23 +1,19 @@
-# Unit Converter – Your Ultimate Conversion Tool
+# Unit Converter
 
 **Unit Converter** is a sleek and interactive **Streamlit web app** that allows you to convert between different measurement units **instantly**. Whether you need to switch between **meters and miles, Celsius and Fahrenheit, kilograms and pounds, or even time and speed**, this app has you covered.  
 
-🔥 **Live Demo**: [Click Here to Try the App](#)  
-
 ---
 
-## **✨ Features**  
+## ** Features**  
 
 ✅ **Multi-Category Conversions:** Convert between **Length, Temperature, Weight, Time, Speed, and Area**.  
 ✅ **User-Friendly Interface:** Select units effortlessly with dropdown menus and live input fields.  
-✅ **Instant Conversion:** Get real-time results without needing to refresh.  
-✅ **Dark Mode Theme:** **Sleek black background** with **red UI elements** for a modern look.  
-✅ **Smooth Animations:** Enjoy a visually appealing experience with fade-in result animations.  
+✅ **Instant Conversion:** Get real-time results without needing to refresh.    
 ✅ **Reset Button:** Easily clear inputs and start a new conversion.  
 
 ---
 
-## **🚀 How to Use**  
+## ** How to Use**  
 
 1️⃣ **Choose a Conversion Category:** Select from **Length, Temperature, Weight, Time, Speed, or Area** in the sidebar.  
 2️⃣ **Enter Your Value:** Type the number you want to convert.  
@@ -27,7 +23,7 @@
 
 ---
 
-## **🛠️ Setup & Installation**  
+## ** Setup & Installation**  
 
 ### **Prerequisites**  
 - Python **3.8 or higher**  
@@ -52,11 +48,11 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
-🎉 **Your Unit Converter is now live on `localhost:8501`!**  
+ **Your Unit Converter is now live on `localhost:8501`!**  
 
 ---
 
-## **🌍 Deploy to Streamlit Cloud**  
+## ** Deploy to Streamlit Cloud**  
 
 Want to make your app public? Follow these steps:  
 
